@@ -1,0 +1,86 @@
+[
+    {
+        "user_id": 101,
+        "email": "ben1@test.com",
+        "password": "123",
+        "role": "beneficiary",
+        "account_status": "active",
+        "full_name": "Alice Walker (Visual)",
+        "disability_type": "visual",
+        "skills": "Content Writing, Translation",
+        "disability_card_url": "temp.pdf"
+    },
+    {
+        "user_id": 102,
+        "email": "ben2@test.com",
+        "password": "123",
+        "role": "beneficiary",
+        "account_status": "active",
+        "full_name": "Bob Smith (Locomotor)",
+        "disability_type": "locomotor",
+        "skills": "Data Entry, Excel",
+        "disability_card_url": "temp.pdf"
+    },
+    {
+        "user_id": 104,
+        "email": "ben4@test.com",
+        "password": "123",
+        "role": "beneficiary",
+        "account_status": "pending",
+        "full_name": "Diana Prince (Speech)",
+        "disability_type": "speech",
+        "skills": "Programming, PHP",
+        "disability_card_url": "temp.pdf"
+    },
+    {
+        "user_id": 103,
+        "email": "ben3@test.com",
+        "password": "123",
+        "role": "beneficiary",
+        "account_status": "active",
+        "full_name": "Charlie Brown (Hearing)",
+        "disability_type": "hearing",
+        "skills": "Graphic Design, Photoshop",
+        "disability_card_url": "temp.pdf"
+    },
+    {
+        "user_id": 201,
+        "email": "comp1@test.com",
+        "password": "123",
+        "role": "company",
+        "account_status": "active",
+        "full_name": "Tech Solutions Inc",
+        "company_location": "New York"
+    },
+    {
+        "user_id": 202,
+        "email": "comp2@test.com",
+        "password": "123",
+        "role": "company",
+        "account_status": "pending",
+        "full_name": "Inclusive Designs Ltd",
+        "company_location": "London"
+    },
+    {
+        "user_id": 1770476181,
+        "email": "neupaneswikrit@gmail.com",
+        "password": "swikrit123",
+        "role": "beneficiary",
+        "account_status": "active",
+        "full_name": "swikrit Neupane",
+        "created_at": "2026-02-07 15:56:21",
+        "disability_type": "locomotor",
+        "skills": "php, UI, Table Tennis",
+        "disability_card_url": "temp.pdf"
+    },
+    {
+        "user_id": 1770477086,
+        "email": "aib@company.com",
+        "password": "aib123",
+        "role": "company",
+        "account_status": "active",
+        "full_name": "aib group",
+        "created_at": "2026-02-07 16:11:26",
+        "company_location": "biratnagar"
+    }
+]

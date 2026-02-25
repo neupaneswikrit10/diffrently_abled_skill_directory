@@ -1,0 +1,33 @@
+[
+    {
+        "job_id": 501,
+        "company_id": 201,
+        "job_title": "Junior Graphic Designer",
+        "job_description": "Need a creative designer for logos.",
+        "required_skills": "Photoshop, Illustrator",
+        "target_disability_type": "hearing",
+        "job_status": "open",
+        "company_name": "Tech Solutions Inc"
+    },
+    {
+        "job_id": 502,
+        "company_id": 202,
+        "job_title": "Backend Developer",
+        "job_description": "PHP developer needed.",
+        "required_skills": "PHP, MySQL",
+        "target_disability_type": "speech",
+        "job_status": "pending",
+        "company_name": "Inclusive Designs Ltd"
+    },
+    {
+        "job_id": 1770478542,
+        "company_id": 1770477086,
+        "company_name": "Company",
+        "job_title": "job locomotor",
+        "job_description": "it is for swikrit neupane",
+        "required_skills": "php, UI, Table Tennis",
+        "target_disability_type": "locomotor",
+        "job_status": "open",
+        "posted_date": "2026-02-07"
+    }
+]
